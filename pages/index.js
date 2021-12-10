@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       {state}
-      <button onClick = {()=>click()}>
+      <button onClick = {click}>
         button   
       </button>
     </div>
